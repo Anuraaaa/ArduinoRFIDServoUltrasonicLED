@@ -30,6 +30,9 @@
 	- VCC Ultrasonic -> 5V Arduino Uno
 	- TRIG Ultrasonic -> PIN 3 Arduino Uno
 	- ECHO Ultrasonic -> PIN 5 Arduino Uno
+- LED:
+	- GND LED -> GND Arduino Uno
+	- PIN LED -> PIN 2 Arduino Uno with Resistor 220 Ohm
 
 ## Algoritma:
 	- Kartu dapat dicek terdaftar atau tidak
