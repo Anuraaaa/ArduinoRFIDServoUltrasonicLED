@@ -22,14 +22,14 @@
 	- MISO RFID RC522 -> PIN 12 Arduino Uno
 	- SCK RFID RC522 -> PIN 13 Arduino Uno
 - Servo:
-	- GND RFID RC522 -> GND Arduino Uno
-	- POWER RFID RC522 -> 5V Arduino Uno
-	- SIGNAL RFID RC522 -> PIN 6 Arduino Uno
+	- GND Servo -> GND Arduino Uno
+	- POWER Servo -> 5V Arduino Uno
+	- SIGNAL Servo -> PIN 6 Arduino Uno
 - Ultrasonic:
-	- GND RFID RC522 -> GND Arduino Uno
-	- VCC RFID RC522 -> 5V Arduino Uno
-	- TRIG RFID RC522 -> PIN 3 Arduino Uno
-	- ECHO RFID RC522 -> PIN 5 Arduino Uno
+	- GND Ultrasonic -> GND Arduino Uno
+	- VCC Ultrasonic -> 5V Arduino Uno
+	- TRIG Ultrasonic -> PIN 3 Arduino Uno
+	- ECHO Ultrasonic -> PIN 5 Arduino Uno
 
 ## Algoritma:
 	- Kartu dapat dicek terdaftar atau tidak
